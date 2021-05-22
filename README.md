@@ -1,6 +1,6 @@
 <p align="center"> Hi there 👋
-<img src="
-https://media.giphy.com/media/z1HitrABsfTgs/source.gif" width="30px" alt="hello funny"/>&nbsp;<i><b>Git</b></i>
+<img align="right" height="270px" alt="guy" width="350" src="https://media.giphy.com/media/z1HitrABsfTgs/source.gif" /> 
+
 </p>
 <hr>
 <p align="center">
