@@ -5,7 +5,6 @@
  <img src="https://komarev.com/ghpvc/?username=joncasagrande&color=brightgreen" alt="watching_count" />
   <img src="https://img.shields.io/badge/Android-success" />
   <img src="https://img.shields.io/badge/Vienna-success" />
-  <img src="https://img.shields.io/badge/Languages-English-brightgreen" />
 <img src="https://img.shields.io/badge/Languages-English%20%26%20Portugues-brightgreen" />
 </p>
 
