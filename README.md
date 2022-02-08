@@ -1,4 +1,7 @@
 <p align="center"> Hi there 👋
+ 
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="VERTICAL" data-vanity="joncasagrande" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://pt.linkedin.com/in/joncasagrande/en?trk=profile-badge">Jonathan Casagrande Filho</a></div>
+              
 </p>
 <hr>
 <p align="center">
